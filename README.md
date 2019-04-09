@@ -2,7 +2,7 @@
 
 > Where are my compliments?
 
-![Give me compliments](https://raw.githubusercontent.com/irreal/pohvalite.me/master/compliments.jpg)
+![Give me compliments](https://github.com/irreal/pohvalite.me/blob/master/compliments.jpeg)
 
 ## Build Setup
 
